@@ -1,3 +1,0 @@
-This is a test file
-We opened it directly from Atom editor
-Adding the third line for test
